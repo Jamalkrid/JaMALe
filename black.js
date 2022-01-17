@@ -32,6 +32,7 @@ const cooldown = new Set();
 const cdtime = 5;
 const prefix = "T"
 client.login("OTIwODA4MzA5Mjg2NjY2MzMx.YbpvkA.vVetlfnsR-ZDnVy3FbOeJidSmIc")
+")
 
 let channelc = JSON.parse(fs.readFileSync('./channelc.json' , 'utf8'));
 let channeld = JSON.parse(fs.readFileSync('./channeld.json' , 'utf8'));
